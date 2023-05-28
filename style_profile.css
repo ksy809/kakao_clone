@@ -1,0 +1,51 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.wifi {
+  width: 18px;
+  height: 18px;
+}
+
+.battery {
+  width: 25px;
+  height: 25px;
+}
+
+.top_bar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.top_bar_element {
+  margin-left: 70px;
+}
+
+.firend_screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.friends_screen_element {
+  margin-left: 60px;
+}
+
+.readingGlasses {
+  width: 30px;
+  height: 30px;
+}
+
+.music {
+  width: 30px;
+  height: 30px;
+}
+
+.wheel {
+  width: 30px;
+  height: 30px;
+}
